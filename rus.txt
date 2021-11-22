@@ -1,0 +1,4 @@
+﻿﻿mother
+home
+father
+cat
